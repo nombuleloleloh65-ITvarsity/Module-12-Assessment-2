@@ -1,0 +1,59 @@
+body{
+	font-family: "Raleway", sans-serif;
+	padding-left: 35px;
+	padding-bottom: 35px;
+	padding-top: 35px;
+	border: collapse;
+}
+
+button{
+	background-color: azure;
+	width: 47%;
+	text-align: center;
+	text-transform: uppercase;
+	font-family: "Raleway", sans-serif;
+	text-decoration-color: maroon;
+}
+
+table{
+	border-collapse: collapse;
+	width: 100%;
+}
+
+td img{
+	width: 40%;
+	height: 5cm;
+	border: 1px solid #dedede;
+	padding: 8px;
+}
+	
+td {
+	border: 1px solid #dedede;
+	padding: 8px;
+}
+
+tr:nth-child(even){
+	background-color: azure;
+}
+
+form input{
+	background-color: beige;
+	text-align: center;
+	width: 50%;
+	padding-bottom:8px; 
+}
+
+form label{
+	padding-right: 35px;
+	padding-top: 35px;
+	padding-bottom:8px;
+}
+
+form button{
+	width: 33%;
+}
+
+
+
+
+
